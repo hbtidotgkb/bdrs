@@ -1,23 +1,16 @@
 {
   "files": {
-    "main.css": "/hbtidotgkb/bdrs/static/css/main.17013703.css",
-    "main.js": "/hbtidotgkb/bdrs/static/js/main.2f8ba4ca.js",
-    "static/js/787.b4a032ad.chunk.js": "/hbtidotgkb/bdrs/static/js/787.b4a032ad.chunk.js",
-    "static/media/bdrs_bg.png": "/hbtidotgkb/bdrs/static/media/bdrs_bg.76aab112a20a9dba0010.png",
-    "static/media/dp_nidhi.png": "/hbtidotgkb/bdrs/static/media/dp_nidhi.16e560d5021c71327e92.png",
-    "static/media/dp_charan.png": "/hbtidotgkb/bdrs/static/media/dp_charan.286d2157ff59068d1684.png",
-    "static/media/dp_cathy.png": "/hbtidotgkb/bdrs/static/media/dp_cathy.85358bc0882895d8947f.png",
-    "static/media/dp_gaurav.png": "/hbtidotgkb/bdrs/static/media/dp_gaurav.9795c6149ce038ed1088.png",
-    "static/media/dp_jason.png": "/hbtidotgkb/bdrs/static/media/dp_jason.13dfc1e0cb171af5cf85.png",
-    "static/media/dp_bharath.png": "/hbtidotgkb/bdrs/static/media/dp_bharath.9e6e26d1d5af4baf22d0.png",
-    "static/media/dp_sean.png": "/hbtidotgkb/bdrs/static/media/dp_sean.4fcfe9440c02e56bf7c3.png",
-    "index.html": "/hbtidotgkb/bdrs/index.html",
-    "main.17013703.css.map": "/hbtidotgkb/bdrs/static/css/main.17013703.css.map",
-    "main.2f8ba4ca.js.map": "/hbtidotgkb/bdrs/static/js/main.2f8ba4ca.js.map",
-    "787.b4a032ad.chunk.js.map": "/hbtidotgkb/bdrs/static/js/787.b4a032ad.chunk.js.map"
+    "main.css": "/bdrs/static/css/main.073c9b0a.css",
+    "main.js": "/bdrs/static/js/main.70add7aa.js",
+    "static/js/787.113771c9.chunk.js": "/bdrs/static/js/787.113771c9.chunk.js",
+    "static/media/logo.svg": "/bdrs/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/bdrs/index.html",
+    "main.073c9b0a.css.map": "/bdrs/static/css/main.073c9b0a.css.map",
+    "main.70add7aa.js.map": "/bdrs/static/js/main.70add7aa.js.map",
+    "787.113771c9.chunk.js.map": "/bdrs/static/js/787.113771c9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.17013703.css",
-    "static/js/main.2f8ba4ca.js"
+    "static/css/main.073c9b0a.css",
+    "static/js/main.70add7aa.js"
   ]
 }
